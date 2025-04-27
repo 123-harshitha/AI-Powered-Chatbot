@@ -1,0 +1,4 @@
+Install dependencies
+
+langchain_ollama
+streamlit
